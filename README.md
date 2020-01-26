@@ -1,2 +1,2 @@
 # fortify
-Review your OS- and software configuration and provide suggestions
+Review your OS- and software configuration and suggest hardening tips
