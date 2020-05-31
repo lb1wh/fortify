@@ -1,2 +1,2 @@
 # fortify
-Review your OS- and software configuration and suggest hardening tips
+A simple tool that reviews your OS- and software configuration and provides hardening tips
