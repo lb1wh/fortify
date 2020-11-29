@@ -1,2 +1,2 @@
 # fortify
-A simple tool that reviews your OS- and software configuration and provides hardening tips
+A simple tool that scans your operating system and applications for security potential security risks
